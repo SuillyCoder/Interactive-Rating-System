@@ -1,0 +1,82 @@
+body{
+    font-family: Lucida Sans;
+    background-color: #092047;
+    color: #D8E1FB;
+}
+
+.containerBox{
+    width: 800px;
+    height: 800px;
+    margin:auto;
+    margin-top: 100px;
+    border: 2px solid black;
+    border-radius: 75px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: #ac61b9;
+}
+.elementBox{
+    width: 730px;
+}
+.starBox{
+    height: 100px;
+}
+.star{
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    background-color: #092047;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.star img{
+    height: 60px;
+    width: 70px;
+    margin: auto;
+
+}
+.howDidWeDo{
+    height: 70px;
+    font-size: 75px;
+}
+.letusKnow{
+    height: 220px;
+    font-size: 35px;
+}
+.circles{
+    height: 120px;
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.submit{
+    height: 70px;
+    border-radius: 70px;
+    text-align: center;
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+    font-size: 40px;
+    background-color: #0b468c;
+    color: #D8E1FB;
+}
+.rateCircle{
+    height: 120px;
+    width: 120px;
+    border-radius: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align:center;
+    font-size: 50px;
+    background-color: #0b468c;
+    border-color: #0B376B;
+    color: #D8E1FB;
+
+}
+
+
+
